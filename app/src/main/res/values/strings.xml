@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Portfolio</string>
+    <string name="main_title">My Portfolio</string>
+    <string name="main_subtitle">Welcome to my Android portfolio app</string>
+</resources>
