@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Portfolio" parent="Base.Theme.Portfolio">
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
