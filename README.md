@@ -16,3 +16,4 @@ This project is used to practice Git and GitHub (branches, pull requests, merge 
 1. Clone the repo
 2. Open it in Android Studio
 3. Wait for Gradle sync, then press Run
+Made by nada0sh
