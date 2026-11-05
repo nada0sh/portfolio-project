@@ -3,6 +3,9 @@
 A small Android portfolio app built with Kotlin in Android Studio.
 This project is used to practice Git and GitHub (branches, pull requests, merge conflicts, GitFlow and releases).
 
+## Version
+1.0
+
 ## Screens
 - Main screen
 - About screen
