@@ -5,4 +5,7 @@
     <string name="about_title">About Me</string>
     <string name="about_text">I am a software engineering student. This app shows my projects and how I use Git and GitHub.</string>
     <string name="btn_about">About Me</string>
+    <string name="contact_title">Contact Me</string>
+    <string name="contact_hint">Write your message</string>
+    <string name="btn_send">Send</string>
 </resources>

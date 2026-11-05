@@ -17,6 +17,9 @@
         <activity
             android:name=".AboutActivity"
             android:exported="false" />
+        <activity
+            android:name=".ContactActivity"
+            android:exported="false" />
     </application>
 
 </manifest>
