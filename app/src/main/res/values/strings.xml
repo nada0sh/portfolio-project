@@ -8,4 +8,10 @@
     <string name="footer_text">© 2026 nada0sh - Portfolio App</string>
     <string name="blog_title">Welcome to my Blog</string>
     <string name="btn_blog">My Blog</string>
+    <string name="contact_title">Contact Me</string>
+    <string name="contact_hint">Write your message</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_contact">Contact Me</string>
+    <string name="avatar_letter">N</string>
+    <string name="main_role">Software Engineering Student</string>
 </resources>
