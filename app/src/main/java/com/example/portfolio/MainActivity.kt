@@ -14,5 +14,10 @@ class MainActivity : AppCompatActivity() {
         btnAbout.setOnClickListener {
             startActivity(Intent(this, AboutActivity::class.java))
         }
+
+        val btnBlog = findViewById<Button>(R.id.btnBlog)
+        btnBlog.setOnClickListener {
+            startActivity(Intent(this, BlogActivity::class.java))
+        }
     }
 }

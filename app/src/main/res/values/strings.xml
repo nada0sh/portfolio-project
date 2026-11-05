@@ -6,4 +6,6 @@
     <string name="about_text">I am a software engineering student. This app shows my projects and how I use Git and GitHub.</string>
     <string name="btn_about">About Me</string>
     <string name="footer_text">© 2026 nada0sh - Portfolio App</string>
+    <string name="blog_title">Welcom to my Blog</string>
+    <string name="btn_blog">My Blog</string>
 </resources>
