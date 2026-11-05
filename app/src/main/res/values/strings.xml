@@ -4,4 +4,5 @@
     <string name="main_subtitle">Welcome to my Android portfolio app</string>
     <string name="about_title">About Me</string>
     <string name="about_text">I am a software engineering student. This app shows my projects and how I use Git and GitHub.</string>
+    <string name="btn_about">About Me</string>
 </resources>

@@ -23,4 +23,11 @@
         android:text="@string/main_subtitle"
         android:textSize="16sp" />
 
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="@string/btn_about" />
+
 </LinearLayout>
