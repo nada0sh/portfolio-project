@@ -19,5 +19,10 @@ class MainActivity : AppCompatActivity() {
         btnBlog.setOnClickListener {
             startActivity(Intent(this, BlogActivity::class.java))
         }
+
+        val btnContact = findViewById<Button>(R.id.btnContact)
+        btnContact.setOnClickListener {
+            startActivity(Intent(this, ContactActivity::class.java))
+        }
     }
 }

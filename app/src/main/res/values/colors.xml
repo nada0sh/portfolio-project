@@ -11,4 +11,8 @@
     <color name="orange_400">#FFFFA726</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="bg">#FFF3F6FB</color>
+    <color name="card">#FFFFFFFF</color>
+    <color name="text_main">#FF1F2937</color>
+    <color name="text_muted">#FF6B7280</color>
 </resources>
